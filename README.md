@@ -11,23 +11,22 @@ __*A website that will tell you what celebrity you should be dating*__
 The visitor takes a short survey and then is presented with a pop-up telling them what
 celebrity they should be dating.
 
-### Setup/Installation
-*None required. Clone or download and extract to use*
+## Technologies Used
+HTML, CSS
 
-### Support & Contact
-For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
+## Setup/Installation
+* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* _OR_
+* Clone diectory 
+* Open index.html in your favorite browser
 
-### Known Issues
-* Get rid of pop-up and use hidden field or modal form to display answer.
-* Add photo and information about celebrity suggested.
-* Add visual interest to main page with photos of celebrities
-* Improve survey with additional questions
-* Improve variety of answers possible and logic in picking celebrity
+## Support & Contact
+For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 
-### Technologies Used
-###### HTML, CSS, Bootstrap, JavaScript, jQuery
+## Known Issues
+* None
 
-### Legal
+## Legal
 *Licensed under the GNU General Public License v3.0*
 
-Copyright (c) 2016 **_Karen Freeman-Smith_**
+Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io)_ All Rights Reserved.
