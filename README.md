@@ -1,23 +1,19 @@
-# :wine_glass: [Celebrity Dating](http://karenfreemansmith.github.io/dating) :coffee:
-![project screenshot](/img/screenshot.jpg)
+# Celebrity Dating
+Version 0.0.1: March 31, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
 
-__Version 1: March 31, 2016__
+### Technologies Used
+HTML, CSS, Bootstrap, JavaScript, jQuery
 
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
+![screenshot of project running](screenshot.png)
 
-### Description
-__*A website that will tell you what celebrity you should be dating*__
-
-The visitor takes a short survey and then is presented with a pop-up telling them what
-celebrity they should be dating.
-
-## Technologies Used
-HTML, CSS
+## Description
+*[Learn How To Program](http://learnhowtoprogram.com) Intro to Programming Week 2 Individual Project: The visitor takes a short survey and then is presented with a pop-up telling them what celebrity they should be dating.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk2-CelebrityDating)
 * _OR_
-* Clone diectory 
+* Clone directory
 * Open index.html in your favorite browser
 
 ## Support & Contact
